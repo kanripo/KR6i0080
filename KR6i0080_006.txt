@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:09:21.155661
+#+DATE: 2015-08-30 20:09:21.580764
 #+TITLE: 維摩經玄疏
 #+PROPERTY: CBETA_ID T38n1777
 #+PROPERTY: ID KR6i0080
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 38, No. 1777
 #+PROPERTY: VOL 38
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@JIA
 #+PROPERTY: LASTPB <pb:KR6i0080_T_006-0554b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 6
 ¶
 ¶
-
- 維摩經玄疏卷第六¶
+維摩經玄疏卷第六¶
 ¶
 天台山修禪寺沙門智顗撰¶
 
@@ -149,7 +148,7 @@
 欺。是則略明共般若共二乘說。而上中下根¶
 利鈍不同。故於一法性通別圓三種之異也。¶
 譬如石有金性。有人破石得金。而不能作種¶
-種𨥁璫環釧。有人得金能用作種種𨥁璫環¶
+種[金*又]璫環釧。有人得金能用作種種[金*又]璫環¶
 釧而不能變金為丹。有人能變金成丹。服之¶
 得仙五通無閡也。金性是一。而得者三種不¶
 同也。二約不共說般若明法性實相為大乘¶
@@ -764,4 +763,3 @@
 　捨戲論諍競
 #+END_VERSE
 」¶
-維摩經玄疏卷第六
